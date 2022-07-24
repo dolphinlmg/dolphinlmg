@@ -15,7 +15,8 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F46D01?style=flat&logo=JavaScript&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a> 
-</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dolphinlmg&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
-![dolphinlmg's github stats](https://github-readme-stats.vercel.app/api?username=dolphinlmg&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dolphinlmg&layout=compact)](https://github.com/anuraghazra/github-readme-stats" /></a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=dolphinlmg&show_icons=true" />
+</div>
