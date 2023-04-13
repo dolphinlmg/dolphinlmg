@@ -16,7 +16,4 @@
 <img src="https://img.shields.io/badge/JavaScript-F46D01?style=flat&logo=JavaScript&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a> 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dolphinlmg&layout=compact)](https://github.com/anuraghazra/github-readme-stats" /></a>
-
-<img src="https://github-readme-stats.vercel.app/api?username=dolphinlmg&show_icons=true" />
 </div>
